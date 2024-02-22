@@ -93,7 +93,7 @@ int main()
 }
 ```
 
-##### 范围2的代码$$ O(n)$$
+##### 范围2的代码$$ O(nlogn)$$
 
 ```c++
 #include <bits/stdc++.h>
